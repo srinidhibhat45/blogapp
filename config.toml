@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 
 [params]
   author = "Srinidhi Bhat"
-  description = "In solitude, where we are least alone."
+  description = "In solitude, where we are least alone, we write for we cannot speak..."
   github = "srinidhibhat45"
   twitter = "YourFatGuy"
   linkedin = "srinidhi-bhat-8aaa2a147/"
@@ -18,7 +18,7 @@ pygmentsUseClasses = true
   keywords = "blog, srinidhi bhat"
   rss = false
   lastmod = true
-  favicon = "/images/github.png"
+  favicon = "/images/poly.png"
   location = "India"
 
   [[params.links]]
