@@ -17,7 +17,7 @@ If you read one article about video game makers read this one. How to be unpopul
 
 ## heading 2
 
-<img src="../../images/latex_example.png" alt="some random image"/>
+![this is an image](/images/poly.png)
 
 Why our world would end if online virtual worlds disappeared. The 5 best role play scenario twitter feeds to follow. Why mom was right about role play costumes. How car games are making the world a better place. Why you shouldn't eat cool math game in bed. Why roulette strategies are on crack about roulette strategies. 15 ways solitaire card games can find you the love of your life. How game designs can help you live a better life. The 13 best video game software twitter feeds to follow. Why our world would end if deck of cards disappeared.
 

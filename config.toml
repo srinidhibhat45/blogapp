@@ -1,4 +1,4 @@
-baseURL = "https://srininidhi-blogs.netlify.app/"
+baseURL = "https://srinidhi-blogs.netlify.app/"
 languageCode = "en-us"
 title = "Srinidhi's Blog"
 theme = "github-style"
